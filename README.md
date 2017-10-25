@@ -1,4 +1,4 @@
-# TLA
+# TLA+
 
 A collection of materials for learning/using TLA+
 
